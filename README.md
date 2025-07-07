@@ -107,15 +107,15 @@ Training dihentikan otomatis jika tidak ada peningkatan Dice Score pada validati
 | No  | Gambar  | Raw Tensor Range     | Denormalized Range  | Accuracy | Gambar Hasil     |
 |-----|---------|----------------------|---------------------|----------|------------------|
 | 1   | Image 1 | [-1.9295 .. 2.6400]  | [0.0431 .. 1.0000]  | 79.73%   | AutoQC_Image1    |
-|     |         |                      |                     |          | ![AutoQC_Image1](AutoQC_Image1.jpg) |
+|     |         |                      |                     |          | ![AutoQC_Image1](AutoQC_Image1.png) |
 | 2   | Image 2 | [-2.1179 .. 2.6400]  | [0.0000 .. 1.0000]  | 96.15%   | AutoQC_Image2    |
-|     |         |                      |                     |          | ![AutoQC_Image2](AutoQC_Image2.jpg) |
+|     |         |                      |                     |          | ![AutoQC_Image2](AutoQC_Image2.png) |
 | 3   | Image 3 | [-2.0665 .. 2.6400]  | [0.0118 .. 1.0000]  | 94.34%   | AutoQC_Image3    |
-|     |         |                      |                     |          | ![AutoQC_Image3](AutoQC_Image3.jpg) |
+|     |         |                      |                     |          | ![AutoQC_Image3](AutoQC_Image3.png) |
 | 4   | Image 4 | [-2.1179 .. 2.3960]  | [0.0000 .. 0.9451]  | 96.00%   | AutoQC_Image4    |
-|     |         |                      |                     |          | ![AutoQC_Image4](AutoQC_Image4.jpg) |
+|     |         |                      |                     |          | ![AutoQC_Image4](AutoQC_Image4.png) |
 | 5   | Image 5 | [-1.9980 .. 2.1171]  | [0.0275 .. 0.8824]  | 94.49%   | AutoQC_Image5    |
-|     |         |                      |                     |          | ![AutoQC_Image5](AutoQC_Image5.jpg) |
+|     |         |                      |                     |          | ![AutoQC_Image5](AutoQC_Image5.png) |
 
 ### Rata-rata Akurasi:
 
